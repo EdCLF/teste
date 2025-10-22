@@ -31,8 +31,7 @@
     font-size: 1.5rem;
 }
 .link:hover{
-    box-shadow: 0 0 16px 0.5px var(--azul-claro);
-    transform: scale(1.75);
+    transform: scale(1.2);
 }
 .menu{
     display: flex;

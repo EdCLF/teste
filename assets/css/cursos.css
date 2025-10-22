@@ -57,6 +57,9 @@ main {
   transform: translateY(-50%);
   font: 400 0.85rem helvetica,sans-serif;
   color: white;
+  background-color:rgba(0,0,0,0.4);
+  padding: 10px;
+  border-radius: 10px;
   text-shadow: 0 3px 8px rgba(0,0,0,0.5);
   opacity: 0;
   display: none;
